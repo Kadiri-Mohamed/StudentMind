@@ -1,4 +1,4 @@
-# StudentMind
+****# StudentMind
 
 ### Student Mental Health Risk Prediction
 
@@ -169,7 +169,7 @@ StudentMind/
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/Kadiri-Mohamed/StudentMind.git)
 cd StudentMind
 ```
 
