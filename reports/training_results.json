@@ -1,0 +1,9 @@
+{
+    "Logistic Regression": {
+        "mean_f1": 0.747266768384012,
+        "std_f1": 0.021275186246662445
+    },
+    "Tuned Logistic Regression": {
+        "mean_f1": 0.7503306733215498
+    }
+}
